@@ -11,10 +11,6 @@
 </a>
 
 
-<a href="mailto:cmp.1a.ciasmim99@gmao">
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/d2473ee7-0633-4fe3-800f-0c9013f49d12">
-</a>
-
 
 <a  href="https://www.linkedin.com/in/iasmim-calistro-1ab873163/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/70760305-b890-4cda-9901-1c64addb4974">
@@ -31,13 +27,13 @@
 
 ### Tecnologias:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/a71ebf01-8e84-4d74-940a-7338bc048f09">
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/afd9fe28-89d6-44ed-be32-d8acdf85d4ed">
+   
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/6c39e522-a35e-4efc-bbe0-e704c09289b2">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/0ec9721a-0c59-41a9-a181-b084ce220099">
 
 </div>
 
