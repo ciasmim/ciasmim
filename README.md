@@ -25,15 +25,15 @@
 </div>
 
 
-### Tecnologias:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/afd9fe28-89d6-44ed-be32-d8acdf85d4ed">
+
+<div align="center"> 
+<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/afd9fe28-89d6-44ed-be32-d8acdf85d4ed">
    
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/6c39e522-a35e-4efc-bbe0-e704c09289b2">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/6c39e522-a35e-4efc-bbe0-e704c09289b2">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/0ec9721a-0c59-41a9-a181-b084ce220099">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/0ec9721a-0c59-41a9-a181-b084ce220099">
 
 </div>
 
